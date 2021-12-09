@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @liligalante
+- 👋 Hi, I’m @liligalante and I wrote this text that you're reading 
 - 👀 I’m interested in ... plants, Jeopardy, corgis, and being outside
 - 🌱 I’m currently learning ...how to use GitHub!
 - 💞️ I’m looking to collaborate on ...anything GitHub-related
