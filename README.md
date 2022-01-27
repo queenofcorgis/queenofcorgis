@@ -3,7 +3,7 @@
 - 👀 I’m interested in ... plants, Jeopardy, corgis, and being outside
 - 🌱 I’m currently learning ...how to use GitHub!
 - 💞️ I’m looking to collaborate on ...anything GitHub-related
-- 📫 How to reach me ... stay tuned!
+- 📫 How to reach me ... tag me in the [GitHub Community](https://github.community/)
 
 <!---
 liligalante/liligalante is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
