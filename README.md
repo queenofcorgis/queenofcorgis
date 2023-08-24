@@ -3,7 +3,7 @@
 - 👀 I’m interested in ... plants, Jeopardy, my next great read, and being outside
 - 🌱 I’m currently learning ...KQL!
 - 💞️ I’m looking to collaborate on ...diverse open source projects & fostering community in a digital space
-- 📫 How to reach me ... tag me in the [GitHub Community](https://github.community/)
+- 📫 How to reach me ... you can find me in the [GitHub Community](https://github.community/)
 
 <!---
 queenofcorgis/queenofcorgis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
