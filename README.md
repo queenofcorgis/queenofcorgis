@@ -2,7 +2,7 @@
 
 ## About me 🖼️
 
-I love building community and running programs. When I'm not doing those things, I'm running after a kickball, building jigsaw puzzles, and spending time outside.
+I love building community and revamping programs to have greater impact. When I'm not doing those things, I'm playing Monopoly Deal, building jigsaw puzzles, and spending time outside.
 
 ## Some delightful community content from me 💭
 
@@ -12,9 +12,9 @@ I love building community and running programs. When I'm not doing those things,
 * [Guide: Troubleshooting 404 errors for GitHub Pages sites](https://github.com/orgs/community/discussions/61073)
 
 ## What I do here
-* Connect with our community through awesome events IRL 🎉
+* Connect with our community through awesome events IRL and virtually 🎉
 * [Answer questions](https://github.com/orgs/community/discussions?discussions_q=answered-by%3Aqueenofcorgis) in [community discussions](https://github.com/orgs/community/discussions/)
-* Create fun and/or helpful content (like in the above section 😎)
+* Create content that makes our customers more successful (like in the above section 😎)  
 * Manage GitHub product feedback for accessibility, repositories, and enterprise 
 * Create strong process, skillbuilding workshops, and culture
   
